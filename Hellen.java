@@ -1,4 +1,4 @@
 public voin Dato(){
 
-sys.trui nbhhb;
+sys.trui out("你好");
 }
